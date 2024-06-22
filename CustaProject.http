@@ -1,0 +1,6 @@
+@CustaProject_HostAddress = http://localhost:5188
+
+GET {{CustaProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
